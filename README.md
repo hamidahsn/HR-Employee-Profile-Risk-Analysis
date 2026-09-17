@@ -155,34 +155,6 @@ Cross-tabulation and interactive filtering were used to examine attrition patter
 
 ---
 
-## Dashboard
-
-The Power BI dashboard provides an overview of employee profiles and attrition patterns.
-
-### Dashboard 1 — Employee Profile & Risk Analysis
-
-The dashboard covers:
-
-- Total Employees
-- Total Attrition
-- Attrition Rate
-- Average Age
-- Average Monthly Income
-- Average Years Worked
-- Attrition by Department
-- Attrition by Job Role
-- Attrition by Education
-- Attrition by Years Worked
-- Attrition by Age
-- Attrition by Monthly Income
-- Attrition by Distance from Home
-- Attrition by Overtime
-- Attrition by Job Satisfaction
-- Attrition by Environment Satisfaction
-- Attrition by Work-Life Balance
-
----
-
 ## Key Findings
 
 Based on the analysis:
